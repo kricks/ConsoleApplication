@@ -16,7 +16,7 @@ namespace ConsoleApplication
             Console.WriteLine($"Rexburg, Idaho");
             Console.WriteLine($"Hello " + $"{myname}!");
             Console.WriteLine($"The current date is: " + today);
-            //test
+            
             Console.WriteLine($"Time until Christmas: " + difference.ToString("dd") + " days!");
 
 
