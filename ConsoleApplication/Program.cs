@@ -10,7 +10,7 @@ namespace ConsoleApplication
             DateTime today = DateTime.Now;
             DateTime christmas = new DateTime(2017, 12, 25);
             TimeSpan difference = christmas - today;
-            //test
+            
             Console.WriteLine($"Hello World!");
             Console.WriteLine($"Katie Ricks");
             Console.WriteLine($"Rexburg, Idaho");
